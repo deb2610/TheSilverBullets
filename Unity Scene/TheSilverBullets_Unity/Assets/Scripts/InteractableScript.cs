@@ -5,7 +5,7 @@ using UnityEngine;
 public class InteractableScript : MonoBehaviour {
 
 	public AnimationClip anim;
-	Animator animator;
+	public Animator animator;
 	public Material outlineMat;
 	public Material defaultMat;
 
@@ -24,7 +24,7 @@ public class InteractableScript : MonoBehaviour {
 		animator.Play(anim.name);
 	}
 
-	void OnMouseDown()
+	void  OnMouseDown()
 	{
 		PlayAnimation();
 	}

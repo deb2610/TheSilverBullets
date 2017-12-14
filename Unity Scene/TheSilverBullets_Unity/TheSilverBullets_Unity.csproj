@@ -76,12 +76,6 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-    </Reference>
     <Reference Include="SabreCSG.Core">
       <HintPath>Assets\SabreCSG\Scripts\SabreCSG.Core.dll</HintPath>
     </Reference>
@@ -201,6 +195,7 @@
     <Compile Include="Assets\SabreCSG\Scripts\UI\VertexColorWindow.cs" />
     <Compile Include="Assets\SabreCSG\Scripts\UpdateUtility.cs" />
     <Compile Include="Assets\Scripts\InteractableScript.cs" />
+    <Compile Include="Assets\Scripts\PhoneCall.cs" />
     <Compile Include="Assets\Scripts\VolumetricLight.cs" />
     <Compile Include="Assets\Scripts\VolumetricLightRenderer.cs" />
   </ItemGroup>

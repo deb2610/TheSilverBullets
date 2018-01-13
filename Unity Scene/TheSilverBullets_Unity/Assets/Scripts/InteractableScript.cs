@@ -31,11 +31,11 @@ public class InteractableScript : MonoBehaviour {
 
 	private void OnMouseEnter()
 	{
-		GetComponent<Renderer>().material = outlineMat;
+		GetComponentInChildren<Renderer>().material = outlineMat;
 	}
 
 	private void OnMouseExit()
 	{
-		GetComponent<Renderer>().material = defaultMat;
+		GetComponentInChildren<Renderer>().material = defaultMat;
 	}
 }

@@ -1,0 +1,35 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Declan\Documents\GitHub\TheSilverBullets\Unity Scene\TheSilverBullets_Unity\The Silver Bullet P.I\TheSilverBullet_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Outlined/Custom' - Pass 'OUTLINE' has no vertex shader
+desktop: 1920x1080 59Hz; virtual: 4080x1920 at -1080,-658
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.796037 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4290 -> priority: 1 
+  Thread -> id: 14fc -> priority: 1 
+  Thread -> id: 1be4 -> priority: 1 
+  Thread -> id: 6fd0 -> priority: 1 
